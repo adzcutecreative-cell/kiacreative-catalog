@@ -5,7 +5,8 @@ const PRODUCTS = [
     "price": "9.99",
     "category": "Web App",
     "image": "assets/products/4624519583.jpg",
-    "url": "https://www.etsy.com/listing/4624519583"
+    "url": "https://www.etsy.com/listing/4624519583",
+    "gumroad": "https://adzcute.gumroad.com/l/kiacreative-vat-tracker"
   },
   {
     "id": "4624014953",
@@ -254,5 +255,15 @@ const PRODUCTS = [
     "category": "Canva Templates",
     "image": "assets/products/4611873958.jpg",
     "url": "https://www.etsy.com/listing/4611873958"
+  },
+  {
+    "id": "gumroad-dual-ai",
+    "title": "3000 Claude ChatGPT AI Skills Bundle - Dual AI Vault",
+    "price": "19",
+    "category": "Web App",
+    "image": "assets/products/gumroad-dual-ai.jpg",
+    "url": "https://adzcute.gumroad.com/l/kiacreative-dual-ai-3000",
+    "store": "Gumroad",
+    "gumroad": "https://adzcute.gumroad.com/l/kiacreative-dual-ai-3000"
   }
 ];
