@@ -11,7 +11,7 @@ const PRODUCTS = [
   {
     "id": "4624014953",
     "title": "10 KDP Storybook Templates, Watercolor Covers, 8.5x8.5 Print Ready (PLR License)",
-    "price": "3.99",
+    "price": "6.99",
     "category": "Kids & KDP",
     "image": "assets/products/4624014953.jpg",
     "url": "https://www.etsy.com/listing/4624014953"
@@ -139,7 +139,7 @@ const PRODUCTS = [
   {
     "id": "4614224828",
     "title": "Christmas Glow SVG Bundle, 36 Neon Files, PNG EPS, Commercial Use",
-    "price": "9.99",
+    "price": "6.99",
     "category": "Design & SVG",
     "image": "assets/products/4614224828.jpg",
     "url": "https://www.etsy.com/listing/4614224828"
@@ -179,7 +179,7 @@ const PRODUCTS = [
   {
     "id": "4613155926",
     "title": "Freelancer Income Tracker Spreadsheet, Client Invoice and Payment Log",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4613155926.jpg",
     "url": "https://www.etsy.com/listing/4613155926"
@@ -187,7 +187,7 @@ const PRODUCTS = [
   {
     "id": "4613138145",
     "title": "Study Planner Spreadsheet, Exam Countdown Pomodoro and Revision",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4613138145.jpg",
     "url": "https://www.etsy.com/listing/4613138145"
@@ -195,7 +195,7 @@ const PRODUCTS = [
   {
     "id": "4613151762",
     "title": "Fitness and Weight Tracker Spreadsheet, Workout Log Gym Planner",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4613151762.jpg",
     "url": "https://www.etsy.com/listing/4613151762"
@@ -203,7 +203,7 @@ const PRODUCTS = [
   {
     "id": "4612774265",
     "title": "Weekly Meal Planner Spreadsheet, Grocery Budget List",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4612774265.jpg",
     "url": "https://www.etsy.com/listing/4612774265"
@@ -219,7 +219,7 @@ const PRODUCTS = [
   {
     "id": "4612672320",
     "title": "Debt Payoff Tracker Spreadsheet, Snowball and Avalanche",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4612672320.jpg",
     "url": "https://www.etsy.com/listing/4612672320"
@@ -227,7 +227,7 @@ const PRODUCTS = [
   {
     "id": "4612743626",
     "title": "Bills Due Tracker and Budget Calendar, Monthly Bill Payment Checklist",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4612743626.jpg",
     "url": "https://www.etsy.com/listing/4612743626"
@@ -235,7 +235,7 @@ const PRODUCTS = [
   {
     "id": "4612620030",
     "title": "Budget Planner and Habit Tracker Spreadsheet, Monthly Dashboard",
-    "price": "2.49",
+    "price": "4.99",
     "category": "Spreadsheet",
     "image": "assets/products/4612620030.jpg",
     "url": "https://www.etsy.com/listing/4612620030"
