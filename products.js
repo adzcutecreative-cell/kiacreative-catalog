@@ -265,5 +265,21 @@ const PRODUCTS = [
     "url": "https://adzcute.gumroad.com/l/kiacreative-dual-ai-3000",
     "store": "Gumroad",
     "gumroad": "https://adzcute.gumroad.com/l/kiacreative-dual-ai-3000"
+  },
+  {
+    "id": "4626263507",
+    "title": "Christmas Meal Planner Printable, Holiday Dinner Menu & Recipe List, Grocery Budget Template",
+    "price": "5.99",
+    "category": "Templates",
+    "image": "assets/products/4626263507.jpg",
+    "url": "https://www.etsy.com/listing/4626263507/christmas-meal-planner-printable"
+  },
+  {
+    "id": "4626266059",
+    "title": "Christmas Address Labels Printable, 3 Designs, 24 Fillable Labels, PDF + Canva Template",
+    "price": "4.99",
+    "category": "Greeting Cards",
+    "image": "assets/products/4626266059.jpg",
+    "url": "https://www.etsy.com/listing/4626266059/christmas-address-labels-printable"
   }
 ];
